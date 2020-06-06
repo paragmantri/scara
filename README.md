@@ -1,0 +1,2 @@
+# scara
+simple scara urdf
